@@ -1,3 +1,3 @@
-# Repositorio para el proceso de selección de ingeniero de robotica SunnyApp robotics 
+# Repository for robotics engineer selection process SunnyApp robotics
 
-Realiza un Fork de este repositorio y tomalo como base para realizar el desarrollo de la solución.
+Perform a Fork of this repository and take it as the basis for the development of the solution.
